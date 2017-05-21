@@ -1,3 +1,7 @@
 target/
 /boot/
 /preloaded/
+/coursier/
+/ivy2/
+/sbt/boot/
+/sbt/launchers/
